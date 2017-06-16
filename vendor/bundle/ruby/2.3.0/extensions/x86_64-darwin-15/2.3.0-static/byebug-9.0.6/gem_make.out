@@ -1,0 +1,19 @@
+current directory: /Users/zumi/self_apps/share_notes/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+/Users/zumi/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170616-9285-v1xdh3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/zumi/self_apps/share_notes/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/zumi/self_apps/share_notes/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/zumi/self_apps/share_notes/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20170616-9285-131yxx3/byebug

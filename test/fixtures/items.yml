@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  detail: MyText
+  price: 1
+  user_id: 1
+  college_id: 1
+  year: 1
+
+two:
+  title: MyString
+  detail: MyText
+  price: 1
+  user_id: 1
+  college_id: 1
+  year: 1

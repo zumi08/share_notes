@@ -1,0 +1,15 @@
+current directory: /Users/zumi/self_apps/share_notes/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/zumi/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170616-9285-b8bkrh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/zumi/self_apps/share_notes/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/zumi/self_apps/share_notes/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/zumi/self_apps/share_notes/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20170616-9285-1icranh

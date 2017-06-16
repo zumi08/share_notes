@@ -1,0 +1,2 @@
+class LectureInformation < ApplicationRecord
+end
