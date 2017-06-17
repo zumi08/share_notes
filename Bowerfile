@@ -3,3 +3,4 @@
 
 # asset 'bootstrap'
 asset "admin-lte", '2.0.5'
+asset "Honoka", '3.3.7-a'
