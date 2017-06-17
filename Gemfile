@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #以下後から導入したもの
 gem 'slim-rails'
 gem "bower-rails"
+gem 'jquery-rails'

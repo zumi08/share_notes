@@ -14,3 +14,4 @@ Rails.application.config.assets.paths << Rails.root.join('node_modules')
 # Rails.application.config.assets.precompile += %w( admin.js admin.css )
 #
 Rails.application.config.assets.precompile += %w( af_log.js af_log.css )
+Rails.application.config.assets.precompile += %w( admin-lte/dist/* )
