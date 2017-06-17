@@ -1,7 +1,11 @@
 class TopController < ApplicationController
-  layout 'af_log'
+
+  def index
+    render :layout => 'top'
+  end
 
   def kari
 
+    render :layout => 'af_log'
   end
 end

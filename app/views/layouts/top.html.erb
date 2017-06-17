@@ -24,7 +24,9 @@
 
   <link rel="stylesheet" type="text/css" href="assets/css/example.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
+  <%= stylesheet_link_tag "top" %>
+  <%= stylesheet_link_tag "top/example" %>
+  <%= javascript_include_tag "top" %>
   <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -110,6 +112,7 @@
     <div class="row">
       <div class="col-xs-12 subtitle">
         <h2>HonokaはオリジナルBootstrapテーマです</h2>
+        <%= yield %>
         <p>HonokaはBootstrapテーマの一つですが、以下の特徴を持っています。</p>
       </div>
     </div>
